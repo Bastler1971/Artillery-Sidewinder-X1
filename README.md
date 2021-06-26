@@ -1,1 +1,1 @@
-# Artillery-Sidewinder-X1
+# Artillery-Sidewinder-X1 v2.0.6
